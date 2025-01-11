@@ -12,11 +12,11 @@ body {
 }
 
 body#page1 {
-    background-image: url(/pictures/background.jpg);
+    background-image: url(./pictures/background.jpg);
 }
 
 body#page2 {
-    background-image: url(/pictures/visit_pic.jpg);
+    background-image: url(./pictures/visit_pic.jpg);
     color: white;
 }
 
