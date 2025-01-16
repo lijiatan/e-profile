@@ -265,3 +265,7 @@ footer {
     height: auto; /* Maintain aspect ratio */
     border-radius: 10px; /* Optional: Adds rounded corners */
 }
+
+.assigment-description {
+    font-size: 16px;
+}
